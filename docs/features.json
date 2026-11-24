@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Member Dashboard",
+    "route": "/member-dashboard"
+  },
+  {
+    "id": 2,
+    "name": "Event Calendar",
+    "route": "/event-calendar"
+  },
+  {
+    "id": 3,
+    "name": "Digital Membership Card",
+    "route": "/digital-membership-card"
+  },
+  {
+    "id": 4,
+    "name": "Public Health Knowledge Library",
+    "route": "/public-health-knowledge-library"
+  },
+  {
+    "id": 5,
+    "name": "Volunteer Registration",
+    "route": "/volunteer-registration"
+  },
+  {
+    "id": 6,
+    "name": "Surveys and Feedback",
+    "route": "/surveys-and-feedback"
+  },
+  {
+    "id": 7,
+    "name": "Reports and Export",
+    "route": "/reports-and-export"
+  },
+  {
+    "id": 8,
+    "name": "Leadership Directory",
+    "route": "/leadership-directory"
+  },
+  {
+    "id": 9,
+    "name": "Help and Support",
+    "route": "/help-and-support"
+  },
+  {
+    "id": 10,
+    "name": "Notification Center",
+    "route": "/notification-center"
+  },
+  {
+    "id": 11,
+    "name": "Dark Mode",
+    "route": "/dark-mode"
+  },
+  {
+    "id": 12,
+    "name": "Language Selection (English/Amharic)",
+    "route": "/language-selection-(english/amharic)"
+  },
+  {
+    "id": 13,
+    "name": "Activity Audit Log",
+    "route": "/activity-audit-log"
+  },
+  {
+    "id": 14,
+    "name": "Mobile-Friendly / PWA",
+    "route": "/mobile-friendly-/-pwa"
+  },
+  {
+    "id": 15,
+    "name": "Backup and Recovery Plan",
+    "route": "/backup-and-recovery-plan"
+  },
+  {
+    "id": 16,
+    "name": "Public Health Knowledge Quizzes",
+    "route": "/public-health-knowledge-quizzes"
+  },
+  {
+    "id": 17,
+    "name": "Research and Project Showcase",
+    "route": "/research-and-project-showcase"
+  },
+  {
+    "id": 18,
+    "name": "Alumni Network",
+    "route": "/alumni-network"
+  },
+  {
+    "id": 19,
+    "name": "Participation Certificates",
+    "route": "/participation-certificates"
+  },
+  {
+    "id": 20,
+    "name": "Mentorship Program",
+    "route": "/mentorship-program"
+  },
+  {
+    "id": 21,
+    "name": "Community Impact Reports",
+    "route": "/community-impact-reports"
+  },
+  {
+    "id": 22,
+    "name": "Partners and Sponsors Page",
+    "route": "/partners-and-sponsors-page"
+  },
+  {
+    "id": 23,
+    "name": "Suggestion Box",
+    "route": "/suggestion-box"
+  },
+  {
+    "id": 24,
+    "name": "Newsletter System",
+    "route": "/newsletter-system"
+  },
+  {
+    "id": 25,
+    "name": "Accessibility Improvements",
+    "route": "/accessibility-improvements"
+  }
+]
